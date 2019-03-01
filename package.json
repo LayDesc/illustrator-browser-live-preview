@@ -1,0 +1,21 @@
+{
+  "name": "illustrator-browser-live-preview",
+  "version": "1.0.0",
+  "description": "node.js application for get a live preview of current artboard from illustrator to browser",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "empty"
+  },
+  "repository": {
+    "type": "git",
+    "url": "empty"
+  },
+  "keywords": [
+    "node.js",
+    "illustrator",
+    "live",
+    "preview"
+  ],
+  "author": "",
+  "license": "ISC"
+}
